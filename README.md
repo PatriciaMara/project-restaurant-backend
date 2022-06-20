@@ -1,2 +1,2 @@
-# projetorestaurante-backend
-O backend do projeto final da trilha de Fullstack do Bootcamp da Use Academy - Code Like a Girl.
+# project-restaurant-backend
+Backend project developed as a UseAcademy - Code Like a Girl bootcamp challenge.
